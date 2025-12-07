@@ -1,6 +1,7 @@
 # 📊 HR Analytics - Evaluación de Reclutamiento y Desempeño
 
-
+<img width="1356" height="670" alt="image" src="https://github.com/user-attachments/assets/22c3bed2-2c3f-44e8-a01b-9c2a4127ea1e" />
+<img width="1125" height="716" alt="image" src="https://github.com/user-attachments/assets/18aab040-5cce-4001-9315-1c3ebb3fb25c" />
 
 > Dashboard interactivo para evaluar la eficacia de canales de reclutamiento vs. desempeño laboral en contact center
 
