@@ -152,14 +152,14 @@ DIVIDE(
 
 ## 📈 Hallazgos Principales
 
-### ✅ **Eficiencia Operativa**
+## ✅ **Eficiencia Operativa**
 - **TMO Global**: 8min 33seg (dentro del objetivo <10min)
 - **Nivel de servicio**: 50.2% (meta: >80% - requiere mejora)
 - **Tasa de abandono**: 33.8% crítica (objetivo <15%)
 - **Peak de llamadas**: 13:00-14:00 (854 llamadas/hora)
 - **Día más crítico**: Miércoles (1,717 llamadas)
 
-### 🎯 **Insights de Reclutamiento**
+## 🎯 **Insights de Reclutamiento**
 
 **Canal Más Eficiente:** Recomendación de Empleados
 - Tasa de permanencia: 87% (vs. 65% promedio otros canales)
